@@ -28,7 +28,7 @@
 }
 @media (prefers-reduced-motion: no-preference) {
   .logo {
-    animation: logo-spin infinite 1.5s linear;
+    animation: logo-spin infinite 3.5s linear;
   }
 }
 @keyframes logo-spin {
@@ -41,8 +41,8 @@
 }
 
 .container-calculator {
-  width: 350px;
-  height: 500px;
+  width: 325px;
+  height: 470px;
   margin-top: -28px;
   padding: 10px;
   background-color: #a9e9a9;
